@@ -1,6 +1,5 @@
 
-
-#Track App
+# Track App
 
 Built an app that allows user to keep a daily track of their tasks.
 Made use of Java Swing framework to create various other features such as WorldClock, Timer, Calender, StopWatch etc. Made use of complex algorithms to provide users with accurate results.
